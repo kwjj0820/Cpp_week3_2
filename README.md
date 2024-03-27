@@ -7,3 +7,5 @@ g++ -Werror -c main.cpp console.cpp
 g++ -o main.exe main.o console.cpp console.h
 
 .\main.exe
+
+cmd에서 실행시켜주세요.
